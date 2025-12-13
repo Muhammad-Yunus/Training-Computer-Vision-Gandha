@@ -1,2 +1,106 @@
-# Training-Computer-Vision-Gandha
-Training-Computer-Vision-Gandha
+# Training Computer Vision
+
+- **Pertemuan 1**
+  - **Python Variable & Datatype**
+    - Variable, data type & casting
+  - **Python Operator**
+    - Arithmetic operators
+    - Assignment operators
+    - Comparison operators
+    - Logical operators
+- **Pertemuan 2**
+  - **Python Data Structure**
+    - List
+    - Tuple
+    - Dictionary
+  - **Python NumPy**
+    - Array / Matrix
+- **Pertemuan 3**
+  - **Python Flow Control**
+    - If, elif, & else
+    - While loops & For loops
+  - **Python Function & Module**
+- **Pertemuan 4**
+  - **Image Input Output**
+    - Read, Write & Display Image
+  - **Image Resize & Crop**
+    - Simple Resize & Crop
+  - **Image Colorspace Conversion**
+    - Convert RGB to Grayscale
+  - **Drawing Library**
+    - Draw Line, Rectangle, Circle, Text
+- **Pertemuan 5**
+  - **Image Binarization**
+    - Image Binarization Concept
+  - **Image Binary Thresholding**
+    - Simple & Otsu's Thresholding
+  - **Image Bitwise Operation**
+    - Image Bitwise AND operation
+  - **Image Color Thresholding**
+    - Range Thresholding
+- **Pertemuan 6**
+  - **Image Smoothing / Blurring**
+    - Gaussian Blur on Image
+  - **Canny Edge Detection**
+    - Detect Edge on Image
+  - **Contour Detection**
+    - Detect Contour on Image
+- **Pertemuan 7**
+  - **Contour Property**
+    - Area & Bounding Rect Property
+  - **Contour Feature**
+    - Aspect Ratio & Extent Feature
+  - **Hough Transform**
+    - Line & Circle Detector
+- **Pertemuan 8**
+  - **Morphological Operation**
+    - Erosion & Dilation Operation
+    - Opening & Closing Operation
+  - **Morphological Transform**
+    - Morphological Gradient
+- **Pertemuan 9**
+  - **Geometric Transform**
+    - Translation & Rotation Transform
+    - Affine Transform
+    - Perspective Transform
+- **Pertemuan 10**
+  - **Image Pyramid**
+    - Up & Down Sample
+    - Laplacian Pyramid
+  - **Image Gradient**
+    - Sobel and Scharr Derivatives
+- **Pertemuan 11**
+  - **Fourier Transform**
+    - FFT for Denoising
+    - FFT for Edge Detection
+  - **Image Histogram**
+    - Draw Image Histogram
+- **Pertemuan 12**
+  - **Feature Detection**
+    - SIFT & FAST Detector
+  - **Feature Description**
+    - SIFT & FAST Descriptor
+  - **Feature Matching**
+    - FLANN Matcher
+- **Pertemuan 13**
+  - **Face Feature**
+    - Eigenface
+    - Fisherface
+    - Local Binary Pattern Histograms (LBPH)
+- **Pertemuan 14**
+  - **OpenCV Machine Learning**
+    - ML Classification using K-NN Algorithm
+    - ML Classification using SVM Algorithm
+- **Pertemuan 15**
+  - **OpenCV DNN Inference**
+    - Inference Deep Neural Network
+  - **YOLO Model Overview**
+    - YOLO Model Concept
+    - Inference YOLO ONNX Model
+- **Pertemuan 16**
+  - **Dataset Augmentation**
+    - Implemented in Roboflow
+  - **Dataset Box Annotation**
+    - Implemented in Roboflow
+  - **Transfer Learning YOLO**
+    - YOLO v11 Model
