@@ -9,17 +9,17 @@
     - Comparison operators
     - Logical operators
 - **Pertemuan 2**
+  - **Python Flow Control**
+    - If, elif, & else
+    - While loops & For loops
+  - **Python Function & Module**
+- **Pertemuan 3**
   - **Python Data Structure**
     - List
     - Tuple
     - Dictionary
   - **Python NumPy**
     - Array / Matrix
-- **Pertemuan 3**
-  - **Python Flow Control**
-    - If, elif, & else
-    - While loops & For loops
-  - **Python Function & Module**
 - **Pertemuan 4**
   - **Image Input Output**
     - Read, Write & Display Image
